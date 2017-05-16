@@ -203,7 +203,10 @@ Eclipse projects. Here's how the projects were restructured:
 Next Steps:
 -----------
 You can now build the project. The Gradle project needs network
-connectivity to download dependencies.zhou
+connectivity to download dependencies.
+zhou
+
+zhao
 
 Bugs:
 -----
