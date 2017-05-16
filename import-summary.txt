@@ -1,0 +1,216 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Android.mk
+* CleanSpec.mk
+* MODULE_LICENSE_APACHE2
+* NOTICE
+* apptests\
+* apptests\Android.mk
+* apptests\AndroidManifest.xml
+* apptests\res\
+* apptests\res\layout\
+* apptests\res\layout\sms_send_intent_test.xml
+* apptests\res\values\
+* apptests\res\values\strings.xml
+* apptests\src\
+* apptests\src\com\
+* apptests\src\com\android\
+* apptests\src\com\android\mms\
+* apptests\src\com\android\mms\tests\
+* apptests\src\com\android\mms\tests\SmsSendIntentTestActivity.java
+* proguard.flags
+* tests\
+* tests\Android.mk
+* tests\SmsAutoReply\
+* tests\SmsAutoReply\Android.mk
+* tests\SmsAutoReply\AndroidManifest.xml
+* tests\SmsAutoReply\res\
+* tests\SmsAutoReply\res\drawable\
+* tests\SmsAutoReply\res\drawable\icon.png
+* tests\SmsAutoReply\res\layout\
+* tests\SmsAutoReply\res\layout\main.xml
+* tests\SmsAutoReply\res\values-af\
+* tests\SmsAutoReply\res\values-af\strings.xml
+* tests\SmsAutoReply\res\values-am\
+* tests\SmsAutoReply\res\values-am\strings.xml
+* tests\SmsAutoReply\res\values-ar\
+* tests\SmsAutoReply\res\values-ar\strings.xml
+* tests\SmsAutoReply\res\values-az-rAZ\
+* tests\SmsAutoReply\res\values-az-rAZ\strings.xml
+* tests\SmsAutoReply\res\values-bg\
+* tests\SmsAutoReply\res\values-bg\strings.xml
+* tests\SmsAutoReply\res\values-bn-rBD\
+* tests\SmsAutoReply\res\values-bn-rBD\strings.xml
+* tests\SmsAutoReply\res\values-ca\
+* tests\SmsAutoReply\res\values-ca\strings.xml
+* tests\SmsAutoReply\res\values-cs\
+* tests\SmsAutoReply\res\values-cs\strings.xml
+* tests\SmsAutoReply\res\values-da\
+* tests\SmsAutoReply\res\values-da\strings.xml
+* tests\SmsAutoReply\res\values-de\
+* tests\SmsAutoReply\res\values-de\strings.xml
+* tests\SmsAutoReply\res\values-el\
+* tests\SmsAutoReply\res\values-el\strings.xml
+* tests\SmsAutoReply\res\values-en-rGB\
+* tests\SmsAutoReply\res\values-en-rGB\strings.xml
+* tests\SmsAutoReply\res\values-en-rIN\
+* tests\SmsAutoReply\res\values-en-rIN\strings.xml
+* tests\SmsAutoReply\res\values-es-rUS\
+* tests\SmsAutoReply\res\values-es-rUS\strings.xml
+* tests\SmsAutoReply\res\values-es\
+* tests\SmsAutoReply\res\values-es\strings.xml
+* tests\SmsAutoReply\res\values-et-rEE\
+* tests\SmsAutoReply\res\values-et-rEE\strings.xml
+* tests\SmsAutoReply\res\values-eu-rES\
+* tests\SmsAutoReply\res\values-eu-rES\strings.xml
+* tests\SmsAutoReply\res\values-fa\
+* tests\SmsAutoReply\res\values-fa\strings.xml
+* tests\SmsAutoReply\res\values-fi\
+* tests\SmsAutoReply\res\values-fi\strings.xml
+* tests\SmsAutoReply\res\values-fr-rCA\
+* tests\SmsAutoReply\res\values-fr-rCA\strings.xml
+* tests\SmsAutoReply\res\values-fr\
+* tests\SmsAutoReply\res\values-fr\strings.xml
+* tests\SmsAutoReply\res\values-gl-rES\
+* tests\SmsAutoReply\res\values-gl-rES\strings.xml
+* tests\SmsAutoReply\res\values-hi\
+* tests\SmsAutoReply\res\values-hi\strings.xml
+* tests\SmsAutoReply\res\values-hr\
+* tests\SmsAutoReply\res\values-hr\strings.xml
+* tests\SmsAutoReply\res\values-hu\
+* tests\SmsAutoReply\res\values-hu\strings.xml
+* tests\SmsAutoReply\res\values-hy-rAM\
+* tests\SmsAutoReply\res\values-hy-rAM\strings.xml
+* tests\SmsAutoReply\res\values-in\
+* tests\SmsAutoReply\res\values-in\strings.xml
+* tests\SmsAutoReply\res\values-is-rIS\
+* tests\SmsAutoReply\res\values-is-rIS\strings.xml
+* tests\SmsAutoReply\res\values-it\
+* tests\SmsAutoReply\res\values-it\strings.xml
+* tests\SmsAutoReply\res\values-iw\
+* tests\SmsAutoReply\res\values-iw\strings.xml
+* tests\SmsAutoReply\res\values-ja\
+* tests\SmsAutoReply\res\values-ja\strings.xml
+* tests\SmsAutoReply\res\values-ka-rGE\
+* tests\SmsAutoReply\res\values-ka-rGE\strings.xml
+* tests\SmsAutoReply\res\values-kk-rKZ\
+* tests\SmsAutoReply\res\values-kk-rKZ\strings.xml
+* tests\SmsAutoReply\res\values-km-rKH\
+* tests\SmsAutoReply\res\values-km-rKH\strings.xml
+* tests\SmsAutoReply\res\values-kn-rIN\
+* tests\SmsAutoReply\res\values-kn-rIN\strings.xml
+* tests\SmsAutoReply\res\values-ko\
+* tests\SmsAutoReply\res\values-ko\strings.xml
+* tests\SmsAutoReply\res\values-ky-rKG\
+* tests\SmsAutoReply\res\values-ky-rKG\strings.xml
+* tests\SmsAutoReply\res\values-lo-rLA\
+* tests\SmsAutoReply\res\values-lo-rLA\strings.xml
+* tests\SmsAutoReply\res\values-lt\
+* tests\SmsAutoReply\res\values-lt\strings.xml
+* tests\SmsAutoReply\res\values-lv\
+* tests\SmsAutoReply\res\values-lv\strings.xml
+* tests\SmsAutoReply\res\values-mk-rMK\
+* tests\SmsAutoReply\res\values-mk-rMK\strings.xml
+* tests\SmsAutoReply\res\values-ml-rIN\
+* tests\SmsAutoReply\res\values-ml-rIN\strings.xml
+* tests\SmsAutoReply\res\values-mn-rMN\
+* tests\SmsAutoReply\res\values-mn-rMN\strings.xml
+* tests\SmsAutoReply\res\values-mr-rIN\
+* tests\SmsAutoReply\res\values-mr-rIN\strings.xml
+* tests\SmsAutoReply\res\values-ms-rMY\
+* tests\SmsAutoReply\res\values-ms-rMY\strings.xml
+* tests\SmsAutoReply\res\values-my-rMM\
+* tests\SmsAutoReply\res\values-my-rMM\strings.xml
+* tests\SmsAutoReply\res\values-nb\
+* tests\SmsAutoReply\res\values-nb\strings.xml
+* tests\SmsAutoReply\res\values-ne-rNP\
+* tests\SmsAutoReply\res\values-ne-rNP\strings.xml
+* tests\SmsAutoReply\res\values-nl\
+* tests\SmsAutoReply\res\values-nl\strings.xml
+* tests\SmsAutoReply\res\values-pl\
+* tests\SmsAutoReply\res\values-pl\strings.xml
+* tests\SmsAutoReply\res\values-pt-rPT\
+* tests\SmsAutoReply\res\values-pt-rPT\strings.xml
+* tests\SmsAutoReply\res\values-pt\
+* tests\SmsAutoReply\res\values-pt\strings.xml
+* tests\SmsAutoReply\res\values-ro\
+* tests\SmsAutoReply\res\values-ro\strings.xml
+* tests\SmsAutoReply\res\values-ru\
+* tests\SmsAutoReply\res\values-ru\strings.xml
+* tests\SmsAutoReply\res\values-si-rLK\
+* tests\SmsAutoReply\res\values-si-rLK\strings.xml
+* tests\SmsAutoReply\res\values-sk\
+* tests\SmsAutoReply\res\values-sk\strings.xml
+* tests\SmsAutoReply\res\values-sl\
+* tests\SmsAutoReply\res\values-sl\strings.xml
+* tests\SmsAutoReply\res\values-sr\
+* tests\SmsAutoReply\res\values-sr\strings.xml
+* tests\SmsAutoReply\res\values-sv\
+* tests\SmsAutoReply\res\values-sv\strings.xml
+* tests\SmsAutoReply\res\values-sw\
+* tests\SmsAutoReply\res\values-sw\strings.xml
+* tests\SmsAutoReply\res\values-ta-rIN\
+* tests\SmsAutoReply\res\values-ta-rIN\strings.xml
+* tests\SmsAutoReply\res\values-te-rIN\
+* tests\SmsAutoReply\res\values-te-rIN\strings.xml
+* tests\SmsAutoReply\res\values-th\
+* tests\SmsAutoReply\res\values-th\strings.xml
+* tests\SmsAutoReply\res\values-tl\
+* tests\SmsAutoReply\res\values-tl\strings.xml
+* tests\SmsAutoReply\res\values-tr\
+* tests\SmsAutoReply\res\values-tr\strings.xml
+* tests\SmsAutoReply\res\values-uk\
+* tests\SmsAutoReply\res\values-uk\strings.xml
+* tests\SmsAutoReply\res\values-ur-rPK\
+* tests\SmsAutoReply\res\values-ur-rPK\strings.xml
+* tests\SmsAutoReply\res\values-uz-rUZ\
+* tests\SmsAutoReply\res\values-uz-rUZ\strings.xml
+* tests\SmsAutoReply\res\values-vi\
+* tests\SmsAutoReply\res\values-vi\strings.xml
+* tests\SmsAutoReply\res\values-zh-rCN\
+* tests\SmsAutoReply\res\values-zh-rCN\strings.xml
+* tests\SmsAutoReply\res\values-zh-rHK\
+* tests\SmsAutoReply\res\values-zh-rHK\strings.xml
+* tests\SmsAutoReply\res\values-zh-rTW\
+* tests\SmsAutoReply\res\values-zh-rTW\strings.xml
+* tests\SmsAutoReply\res\values-zu\
+* tests\SmsAutoReply\res\values-zu\strings.xml
+* tests\SmsAutoReply\res\values\
+* tests\SmsAutoReply\res\values\strings.xml
+* tests\SmsAutoReply\src\
+* tests\SmsAutoReply\src\com\
+* tests\SmsAutoReply\src\com\android\
+* tests\SmsAutoReply\src\com\android\smsautoreply\
+* tests\SmsAutoReply\src\com\android\smsautoreply\AutoReplyActivity.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* tests\src\ => app\src\androidTest\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
